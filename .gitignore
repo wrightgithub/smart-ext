@@ -1,0 +1,27 @@
+/target/
+/.idealtest
+.swp
+*.iml
+/*/.iml
+.DS_Store
+/*/.*
+.idea
+*.bak
+target
+*.class
+.target
+#bpm
+/*/bpmclasses
+*.log
+*.tree*
+tree
+git.properties
+
+# eclipse
+.project
+.classpath
+.settings/
+
+# mac
+application.pid
+
